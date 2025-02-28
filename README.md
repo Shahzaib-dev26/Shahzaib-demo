@@ -1,4 +1,4 @@
 # Shahzaib-demo
-This is my practice repositry.
+This is my practice repository.
 <br>
 Author - Muhammad Shahzaib
